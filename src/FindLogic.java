@@ -63,12 +63,7 @@ public class FindLogic {
     1 lâmpada desligada (corresponde ao que nem foi tocado)
     1 lâmpada desligada, poréeeeeem, quente. Então essa lâmpada pertence ao interruptor que acabou de ser desligado.
 
-    TODO
-    Caro Recrutador,
-    levei aproximadamente 2 horas fazendo o exercício, gostaria do mesmo comprometimento e ao menos receber um feedback,
-    no caso de negativa da empresa ao menos eu sei onde posso melhorar (isso ajuda o mercado como um todo).
-    */
-
+*/
 
 
 
